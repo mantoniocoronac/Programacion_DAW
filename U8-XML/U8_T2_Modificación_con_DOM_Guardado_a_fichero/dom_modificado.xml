@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+        
+    <!--COMENTARIO AÑADIDO DESDE DOM-->
+    <usuario id="5">
+        <nombre>Jorge</nombre>
+        <localidad>Sevilla</localidad>
+    </usuario>
+        
+    <!--COMENTARIO AÑADIDO DESDE DOM-->
+    <usuario id="2">
+                
+        <nombre>Pedro</nombre>
+                
+        <localidad>Madrid</localidad>
+            
+    </usuario>
+        
+    <!--COMENTARIO AÑADIDO DESDE DOM-->
+    <usuario id="3">
+                
+        <nombre>Antonio</nombre>
+                
+        <localidad>Barcelona</localidad>
+            
+    </usuario>
+    
+    <usuario id="4">
+        <nombre>Jorge</nombre>
+        <localidad>Sevilla</localidad>
+    </usuario>
+</usuarios>

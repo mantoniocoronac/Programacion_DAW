@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juegos>
+    <juego id="1">
+        <nombre>League of Legends</nombre>
+        <tipo>MOBA</tipo>
+        <empresa>Riot Games</empresa>
+        <ano_lanzamiento>2009</ano_lanzamiento>
+    </juego>
+    <juego id="2">
+        <nombre>Valorant</nombre>
+        <tipo>Shooter</tipo>
+        <empresa>Riot Games</empresa>
+        <ano_lanzamiento>2020</ano_lanzamiento>
+    </juego>
+    <juego id="3">
+        <nombre>Legends of Runaterra</nombre>
+        <tipo>Cartas</tipo>
+        <empresa>Riot Games</empresa>
+        <ano_lanzamiento>2019</ano_lanzamiento>
+    </juego>
+    <juego id="4">
+        <nombre>Counter Strike Global Offensive</nombre>
+        <tipo>Shooter</tipo>
+        <empresa>Valve</empresa>
+        <ano_lanzamiento>2008</ano_lanzamiento>
+    </juego>
+    <juego id="5">
+        <nombre>Super Mario Bros</nombre>
+        <tipo>Plataformas</tipo>
+        <empresa>Nintendo</empresa>
+        <ano_lanzamiento>1985</ano_lanzamiento>
+    </juego>
+    <juego id="6">
+        <nombre>Super Mario Bros 2</nombre>
+        <tipo>Plataformas</tipo>
+        <empresa>Nintendo</empresa>
+        <ano_lanzamiento>1988</ano_lanzamiento>
+    </juego>
+    <juego id="7">
+        <nombre>Super Mario Bros 3</nombre>
+        <tipo>Plataformas</tipo>
+        <empresa>Nintendo</empresa>
+        <ano_lanzamiento>1990</ano_lanzamiento>
+    </juego>
+    <juego id="8">
+        <nombre>New Super Mario Bros</nombre>
+        <tipo>Plataformas</tipo>
+        <empresa>Nintendo</empresa>
+        <ano_lanzamiento>2006</ano_lanzamiento>
+    </juego>
+    <juego id="9">
+        <nombre>Minecraft</nombre>
+        <tipo>Plataformas</tipo>
+        <empresa>Mojang</empresa>
+        <ano_lanzamiento>2009</ano_lanzamiento>
+    </juego>
+    <juego id="10">
+        <nombre>Wii Sports</nombre>
+        <tipo>Deportes</tipo>
+        <empresa>Nintendo</empresa>
+        <ano_lanzamiento>2006</ano_lanzamiento>
+    </juego>
+</juegos>
