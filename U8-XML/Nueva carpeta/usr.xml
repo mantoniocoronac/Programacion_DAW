@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<usuarios>
+    <usuario id = "1">
+        <nombre>Marco</nombre>
+        <localidad>Sevilla</localidad>
+    </usuario>
+    <usuario id = "2">
+        <nombre>Pedro</nombre>
+        <localidad>Madrid</localidad>
+    </usuario>
+    <usuario id = "3">
+        <nombre>Antonio</nombre>
+        <localidad>Barcelona</localidad>
+    </usuario>
+</usuarios>
